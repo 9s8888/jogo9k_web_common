@@ -1,5 +1,5 @@
 let wordDict = {};
-export const I18_JSON_URL = "https://jogo9k.s3.sa-east-1.amazonaws.com/Dynamic+files/base.json";
+export const I18_JSON_URL = "https://jogo9k.s3.sa-east-1.amazonaws.com/Base/base.json";
 export const LANG_ZH = 'ZH';
 export const LANG_EN = 'EN';
 export const LANG_PT = 'PT';
